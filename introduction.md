@@ -1,5 +1,5 @@
 # Introduction
-As a foreigner living and working in Hangzhou (China), with a little knowledge of Chinese language, sometimes I have problems to understand the city, locations and places. With the power of Python, I will try to explore how places are located in this city.
+As a foreigner living and working in Taipei City of Taiwan, with a little knowledge of the Chinese language, sometimes I have problems to understand the city, locations, places and its people. With the power of Python, I will try to explore how places are located in this city.
 ## Method
 - Get the location data
 - Geocode it into coordiantes
